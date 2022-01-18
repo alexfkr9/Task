@@ -1,0 +1,27 @@
+[{
+            "id":1,
+            "name":"Shopping list",
+            "created":"April 20, 2021",
+            "category":"Task",
+            "content":"Tomatouse, bread",
+            "dates":"2.04.2021",
+			"archived": true
+        },
+        {
+            "id":2,
+            "name":"The theory of evolushion",
+            "created":"April 27, 2021",
+            "category":"Random Thought",
+            "content":"The evolushion...",
+            "dates":"04.06.2021",
+            "archived": false
+        },
+        {
+            "id":3,
+            "name":"New Features",
+            "created":"May 05, 2021",
+            "category":"Idea",
+            "content":"Implement new...",
+            "dates":"3.05.2021",
+            "archived": true
+}]
